@@ -15,7 +15,7 @@ const Sharefeedback = ({ setCardOpen,setfeedbackOpen,setSelectedCard}) => {
         setCardOpen(false)
         setfeedbackOpen(false)
         setSelectedCard('')
-    }, 4000);
+    }, 100000);
 }
 
 

@@ -15,7 +15,7 @@ const Contact = ({ setCardOpen, setfeedbackOpen, setSelectedCard }) => {
       setCardOpen(false);
       setfeedbackOpen(false);
       setSelectedCard('');
-    }, 4000);
+    }, 100000);
   };
 
   if (popupOpen) {

@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 
-const starEmpty = "/images/star.png";
+const starEmpty = "/images/Star.png";
 const starFilled = "/images/starFilled.jpg";  
 
 const Rating = () => {
